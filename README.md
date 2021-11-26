@@ -23,6 +23,8 @@ Python
 
 ## Example :
 
+- Run the batch_mux_subs.py file
+
 Insert full path of Videos Folder: 
 ```bash
 E:\Torrent\Anime\Kaguya\Videos
