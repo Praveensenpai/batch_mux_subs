@@ -12,6 +12,11 @@ Python
 ```bash
   Go to this website - https://www.python.org/downloads/
 ```
+
+ffmpeg
+
+```bash
+Go to ffmpeg website and install it and add the bin folder path to the window environment ```
     
 ## How to use : 
 
