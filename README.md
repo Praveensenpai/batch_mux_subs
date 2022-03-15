@@ -16,7 +16,8 @@ Python
 ffmpeg
 
 ```bash
-Go to ffmpeg website and install it and add the bin folder path to the window environment ```
+Go to ffmpeg website and install it and add the bin folder path to the window environment
+```
     
 ## How to use : 
 
